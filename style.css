@@ -1,0 +1,135 @@
+.navbar{
+    
+position: absolute;
+
+height: 103px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.47);
+box-shadow: 0px 4px 14px rgba(24, 160, 251, 0.12);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 0px 0px 14px 14px;
+}
+.navleft{
+    margin-left: 220px;
+}
+.about
+{
+    
+position: relative;
+height: 1510px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+}
+.about h1
+{
+position: relative;
+text-align: center;
+top: 35px;
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 30px;
+color: #1B1B50;
+}
+.about h4{ 
+position: relative;
+text-align: center;
+top: 90px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #1B1B50;
+}
+.about p{
+position: relative;
+margin-left: 30px;
+margin-right: 30px;
+text-align: center;
+top: 110px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 179%;
+color: #000000;
+}
+.about hr{
+    
+position: relative;
+margin-left: 30px;
+margin-right: 30px;
+top: 150px;
+border: 1px solid #000000;
+}
+
+h3{
+    
+position: relative;
+top: 170px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+color: #1B1B50;
+
+}
+h2
+{
+position: relative;
+top: 210px;
+font-family: 'Cinzel';
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #1B1B50;
+font-weight:900;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.about h5{
+    position: relative;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    top: 250px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 179%;
+    color: #000000;
+    }
+.about img{
+position: relative;
+width: 70px;
+height: 70px;
+left: 145px;
+top: 280px;
+}    
+.second{
+    
+position: relative;
+height: 750px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+
+}
+.second p{
+    margin-left: 30px;
+    margin-right: 20px;
+    font: weight 500px;;
+}
